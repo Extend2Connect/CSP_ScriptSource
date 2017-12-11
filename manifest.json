@@ -2,9 +2,9 @@
 
   "manifest_version": 2,
   "name": "CSP script source",
-  "version": "0.1.1",
+  "version": "0.1.2",
 
-"key": "TODO THIS",
+"key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwD1i9xAegrHoAwX9K9KE+PSjdm0OEl31LGrARBfBDYFOrVC5gJt9MIc+7OyOH9REnE1ZKXxDOmDRh51JcR3+iLMGMsXlQW2Mpx+rfYiYRSceea8O1qIxFexLPzjQiHeNcjkw7qBvIJm1qtnubMjHruPB/OVep1cbGUip1LBBo5WewtBlPEF2l0khYbMj5GeVTqNVBUqCsiR7aGs5l+CKEpooNzBpNZEFunzZdbAFr+AaO3MHcAJOWI29954I4z79PdyDrhLcstDStOxArKVGJe525XH55wYHp006MTe/XfpGqv4OCxZdcab3RtgQHvRbiv08sKYLlR8cvU+JuhT/HQIDAQAB",
 
 "description": "Error demo that offers a .js used by another extension.",
 
