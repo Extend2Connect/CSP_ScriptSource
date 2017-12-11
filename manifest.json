@@ -4,6 +4,8 @@
   "name": "CSP mozextension:// script source error demo",
   "version": "0.1.1",
 
+"key": "TODO THIS",
+
 "description": "Error demo that offers a .js used by another extension.",
 
 "background": {
