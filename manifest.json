@@ -6,7 +6,7 @@
 
   "applications": {
     "gecko": {
-      "id": "CSP_MozExtension_ScriptSource1@FocusZilla.github.io",
+      "id": "CSP_ScriptSource1@Extend2Connect.github.io",
       "strict_min_version": "57.0a1"
     }
   },
