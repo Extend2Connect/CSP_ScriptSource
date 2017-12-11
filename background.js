@@ -1,8 +1,8 @@
 "use strict";
 
-browser.runtime.onMessageExternal.addListener( (message, sender, sendResponse)=>{
+chrome.runtime.onMessageExternal.addListener( (message, sender, sendResponse)=>{
     console.error( `onMessageExternal handler invoked: ${message}, ${sender}, ${sendResponse}`);
-    sendResponse( browser.runtime.getURL('') );
+    sendResponse( chrome.runtime.getURL('') );
 });
 
 console.error( `CSP_MozExtension_ScriptSource loaded from URL ${window.document.currentScript.src}`);
