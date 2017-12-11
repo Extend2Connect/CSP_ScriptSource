@@ -1,7 +1,7 @@
 {
 
   "manifest_version": 2,
-  "name": "CSP mozextension:// script source error demo",
+  "name": "CSP mozextension:// and chrome-extension:// script source demo",
   "version": "0.1.1",
 
 "key": "TODO THIS",
