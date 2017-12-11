@@ -4,20 +4,9 @@
   "name": "CSP script source",
   "version": "0.1.1",
 
-<<<<<<< HEAD
 "key": "TODO THIS",
 
 "description": "Error demo that offers a .js used by another extension.",
-=======
-  "applications": {
-    "gecko": {
-      "id": "CSP_ScriptSource@Extend2Connect.github.io",
-      "strict_min_version": "57.0a1"
-    }
-  },
-  
-"description": "Error demo that offers a .js over mozextension:// and chrome-extension:// used by another extension.",
->>>>>>> master
 
 "background": {
   "scripts": ["background.js"]
